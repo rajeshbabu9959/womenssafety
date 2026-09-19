@@ -1,0 +1,6 @@
+{
+  "name": "Women's Nearby Hostels, Temples & Hospitals",
+  "description": "Comprehensive directory for women to find verified nearby hostels, temples, hospitals, emergency helplines, and contact numbers with real-time distance and directions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
